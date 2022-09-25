@@ -1,0 +1,38 @@
+body{
+	border: 15px solid #c9c9c9;
+	box-sizing: border-box;
+	color: #333333;
+	font-family: Times New Roman, Times, Serif;
+	margin: 0 auto;
+	padding: 2rem 3rem;
+	width: 60%;
+	min-width: 600px;
+}
+h1, h2, h3, h4, h5, h6{
+	color: #58b4f5;
+	font-family: Ariel, Helvetica, sans-serif;
+}
+h1{
+	font-size: 3.5rem;
+
+}
+h2{
+	size: 2.25rem;
+}
+h3{
+text-transform: capitalize;
+}
+.description-of-me{
+	color: #f2aa52;
+	font-style: italic;
+	line-height: 1.5;
+}
+img{
+	display: block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 40%;
+}
+ol{
+	list-style-type: square;
+}
